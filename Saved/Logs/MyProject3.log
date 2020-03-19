@@ -2164,3 +2164,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-04.55.51:828][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.19-04.55.51:834][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
 [2020.03.19-04.55.51:855][860]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.19-04.58.44:411][345]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SciFi_Fighter_MaterialBA7B8D924262B8E7AFD4B68F5DFB1B29.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SciFi_Fighter_Material.uasset'
+[2020.03.19-04.58.44:429][345]AssetCheck: New page: Asset Save: SciFi_Fighter_Material
+[2020.03.19-04.58.44:429][345]LogContentValidation: Display: Validating Material /Game/SF_Fighter/SF_Fighter/SciFi_Fighter_Material.SciFi_Fighter_Material
+[2020.03.19-04.58.50:001][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.19-04.58.50:421][460]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/FlyingExampleMap376A79D54F59EA9C680DCC909A17D999.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.03.19-04.58.50:443][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.19-04.58.51:722][460]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/FlyingExampleMap_BuiltData44D336BD4F81D26E675CE498D0595375.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.03.19-04.58.51:755][460]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.19-04.58.51:755][460]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.03.19-04.58.51:756][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.03.19-04.58.56:665][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.19-04.58.58:677][631]LogSlate: Window 'Save Content' being destroyed
+[2020.03.19-04.58.58:722][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingGameMode" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/FlyingGameMode.uasset" SILENT=true
+[2020.03.19-04.58.58:729][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/FlyingGameMode30B48389425749B20AE5D79B5CDEC912.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/FlyingGameMode.uasset'
+[2020.03.19-04.58.58:730][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-04.58.58:789][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShipA1FCF7804BA5FAEBC416F89A20DF6567.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-04.58.58:791][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/Map__6_Normal_Bump" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/Map__6_Normal_Bump.uasset" SILENT=true
+[2020.03.19-04.58.58:833][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Map__6_Normal_Bump681C6B0B400035A67ACBC39D95C6DFB5.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/Map__6_Normal_Bump.uasset'
+[2020.03.19-04.58.58:834][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/SciFi_Fighter" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SciFi_Fighter.uasset" SILENT=true
+[2020.03.19-04.58.58:858][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SciFi_FighterE5707D424796B227C4FDCD9DEFD3DE0A.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SciFi_Fighter.uasset'
+[2020.03.19-04.58.58:860][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/SF_Fighter-Albedo" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Albedo.uasset" SILENT=true
+[2020.03.19-04.58.59:530][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SF_Fighter-Albedo510505FF4A07AE1968B8EAABACB34AF8.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Albedo.uasset'
+[2020.03.19-04.58.59:532][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/SF_Fighter-Gloss" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Gloss.uasset" SILENT=true
+[2020.03.19-04.58.59:648][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SF_Fighter-GlossAD963AE64E3C1BD273A8FCB00C4DBF84.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Gloss.uasset'
+[2020.03.19-04.58.59:649][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/SF_Fighter-Glow" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Glow.uasset" SILENT=true
+[2020.03.19-04.58.59:881][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SF_Fighter-Glow204D771445A8C0F55B4978BF92AF86FC.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Glow.uasset'
+[2020.03.19-04.58.59:910][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SF_Fighter/SF_Fighter/SF_Fighter-Normal" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Normal.uasset" SILENT=true
+[2020.03.19-04.59.00:322][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SF_Fighter-NormalE314D000477997A9A8B60DA1A04C7728.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Normal.uasset'
+[2020.03.19-04.59.00:646][631]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SF_Fighter-SpecularC11711274CBD9CFC72F76E89D9BF06F9.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/SF_Fighter/SF_Fighter/SF_Fighter-Specular.uasset'
+[2020.03.19-04.59.00:720][631]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/FlyingGameMode.FlyingGameMode
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/Map__6_Normal_Bump.Map__6_Normal_Bump
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating StaticMesh /Game/SF_Fighter/SF_Fighter/SciFi_Fighter.SciFi_Fighter
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/SF_Fighter-Albedo.SF_Fighter-Albedo
+[2020.03.19-04.59.00:720][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/SF_Fighter-Gloss.SF_Fighter-Gloss
+[2020.03.19-04.59.00:721][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/SF_Fighter-Glow.SF_Fighter-Glow
+[2020.03.19-04.59.00:721][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/SF_Fighter-Normal.SF_Fighter-Normal
+[2020.03.19-04.59.00:721][631]LogContentValidation: Display: Validating Texture2D /Game/SF_Fighter/SF_Fighter/SF_Fighter-Specular.SF_Fighter-Specular
