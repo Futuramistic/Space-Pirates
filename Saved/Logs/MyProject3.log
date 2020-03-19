@@ -1305,3 +1305,743 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-06.38.52:043][101]LogLinker: Warning: While loading '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/FlyingPawn.uasset' failed to load '/Game/Flying/UFO/UFO': Can't find file.
 [2020.03.19-06.38.52:043][101]LoadErrors: Failed to load /Game/Flying/UFO/UFO.UFO Referenced by StaticMeshComponent_4
 [2020.03.19-06.38.52:043][101]LogLinker: Warning: While loading '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/FlyingPawn.uasset' failed to load '/Game/Flying/UFO/UFO': Can't find file.
+[2020.03.19-06.41.59:629][316]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.19-06.42.01:649][420]AssetReimport: New page: Outstanding source content changes 22:42:01
+[2020.03.19-06.42.01:789][421]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Animated FBX.FBX)
+[2020.03.19-06.42.02:117][421]LogFbx: Loading FBX Scene from D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Animated FBX.FBX
+[2020.03.19-06.42.02:230][421]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.19-06.42.04:943][421]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.19-06.42.05:433][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Diffuse': Can't find file.
+[2020.03.19-06.42.05:433][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Diffuse': Can't find file.
+[2020.03.19-06.42.05:434][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Emissive': Can't find file.
+[2020.03.19-06.42.05:434][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Emissive': Can't find file.
+[2020.03.19-06.42.05:434][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Specular': Can't find file.
+[2020.03.19-06.42.05:434][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Specular': Can't find file.
+[2020.03.19-06.42.05:434][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Normal': Can't find file.
+[2020.03.19-06.42.05:435][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Normal': Can't find file.
+[2020.03.19-06.42.06:256][421]LogSkeletalMesh: Section 0: 7559 vertices, 7 active bones
+[2020.03.19-06.42.06:259][421]LogSkeletalMesh: Section 0: Material=0, 7960 triangles
+[2020.03.19-06.42.06:270][421]LogSkeletalMesh: Building Skeletal Mesh Luminaris_Animated_FBX...
+[2020.03.19-06.42.06:750][421]LogSkeletalMesh: Section 0: 7559 vertices, 7 active bones
+[2020.03.19-06.42.06:754][421]LogSkeletalMesh: Section 0: Material=0, 7960 triangles
+[2020.03.19-06.42.06:804][421]LogSkeletalMesh: Built Skeletal Mesh [0.53s] /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX.Luminaris_Animated_FBX
+[2020.03.19-06.42.06:808][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_Skeleton': Can't find file.
+[2020.03.19-06.42.06:808][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_Skeleton': Can't find file.
+[2020.03.19-06.42.06:828][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_PhysicsAsset': Can't find file.
+[2020.03.19-06.42.06:828][421]LogLinker: Failed to load '/Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_PhysicsAsset': Can't find file.
+[2020.03.19-06.42.06:899][421]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.42.06:899][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.42.07:519][422]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Animated_FBXCE3D3FB642698D6547E4CCA4F331E27A.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX.uasset'
+[2020.03.19-06.42.07:590][423]AssetCheck: New page: Asset Save: Luminaris_Animated_FBX
+[2020.03.19-06.42.07:591][423]LogContentValidation: Display: Validating SkeletalMesh /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX.Luminaris_Animated_FBX
+[2020.03.19-06.42.10:161][572]LogSlate: Window 'Message Log' being destroyed
+[2020.03.19-06.42.10:166][572]LogSlate: Window 'Message Log' being destroyed
+[2020.03.19-06.42.10:530][593]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX.
+[2020.03.19-06.42.19:579][937]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.03.19-06.42.19:579][937]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.03.19-06.42.20:853][986]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.19-06.42.21:513][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.42.21:537][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.42.21:537][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.42.21:537][ 25]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:42:21)
+[2020.03.19-06.42.21:537][ 25]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.42.21:581][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043555s)
+[2020.03.19-06.42.21:584][ 25]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.42.21:585][ 25]LogPlayLevel: PIE: World Init took: (0.003855s)
+[2020.03.19-06.42.21:585][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.048003s)
+[2020.03.19-06.42.21:641][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.03.19-06.42.21:643][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.42.21:644][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.42.21:644][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.42.21:645][ 25]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.42.21:645][ 25]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.42.21:652][ 25]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.42.21:685][ 25]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.19-06.42.21:685][ 25]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.42.21:688][ 25]LogInit: FAudioDevice initialized.
+[2020.03.19-06.42.21:699][ 25]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.42.21:709][ 25]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.42.21
+[2020.03.19-06.42.21:710][ 25]LogWorld: Bringing up level for play took: 0.010277
+[2020.03.19-06.42.21:710][ 25]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.03.19-06.42.21:715][ 25]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.243
+[2020.03.19-06.42.21:715][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.42.38:615][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.42.38:626][ 32]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.42.38:647][ 32]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.42.38:647][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.42.38:647][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.42.38:647][ 32]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.42.38:647][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.42.38:648][ 32]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.42.38:649][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.42.38:655][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.42.38:656][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.42.38:660][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.42.38:697][ 32]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.42.38:700][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.42.38:705][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.03.19-06.42.38:724][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.19-06.42.39:896][ 72]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_PhysicsAsset.Luminaris_Animated_FBX_PhysicsAsset
+[2020.03.19-06.42.40:191][ 72]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2020.03.19-06.42.40:272][ 72]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.03.19-06.42.40:840][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.19-06.42.40:907][ 72]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2020.03.19-06.42.41:971][ 72]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.19-06.42.47:479][325]LogRenderer: Reallocating scene render targets to support 912x668 Format 10 NumSamples 1 (Frame:258).
+[2020.03.19-06.42.54:810][612]LogSlate: Window 'Luminaris_Animated_FBX_PhysicsAsset' being destroyed
+[2020.03.19-06.42.54:841][612]LogSlate: Window 'Luminaris_Animated_FBX_PhysicsAsset' being destroyed
+[2020.03.19-06.42.54:842][612]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.42.54:842][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.42.59:029][732]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_Skeleton.Luminaris_Animated_FBX_Skeleton
+[2020.03.19-06.42.59:069][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.19-06.42.59:191][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.19-06.43.02:169][829]LogSlate: Window 'Luminaris_Animated_FBX_Skeleton' being destroyed
+[2020.03.19-06.43.02:206][829]LogSlate: Window 'Luminaris_Animated_FBX_Skeleton' being destroyed
+[2020.03.19-06.43.02:207][829]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.43.02:207][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.43.08:525][999]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.43.08:535][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.43.08:535][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.43.08:535][999]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:43:08)
+[2020.03.19-06.43.08:535][999]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.43.08:559][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024080s)
+[2020.03.19-06.43.08:561][999]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.43.08:561][999]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2020.03.19-06.43.08:562][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026411s)
+[2020.03.19-06.43.08:606][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.19-06.43.08:607][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.43.08:607][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.43.08:607][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.43.08:607][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.43.08:607][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.43.08:608][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.43.08:608][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.43.08:608][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.43.08:608][999]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.43.08:608][999]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.43.08:612][999]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.43.08:634][999]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.43.08:636][999]LogInit: FAudioDevice initialized.
+[2020.03.19-06.43.08:647][999]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.43.08:653][999]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.43.08
+[2020.03.19-06.43.08:654][999]LogWorld: Bringing up level for play took: 0.005736
+[2020.03.19-06.43.08:654][999]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.03.19-06.43.08:657][999]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.815
+[2020.03.19-06.43.08:657][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.43.23:900][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.43.23:906][910]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.43.23:926][910]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.43.23:926][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.43.23:927][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.43.23:927][910]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.43.23:927][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.43.23:927][910]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.43.23:928][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.43.23:938][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.43.23:938][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.43.23:941][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.43.23:966][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.43.23:970][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.43.23:973][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.19-06.43.24:026][912]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.19-06.45.00:536][437]AssetReimport: New page: Outstanding source content changes 22:45:00
+[2020.03.19-06.45.00:549][437]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris roughness.tga)
+[2020.03.19-06.45.03:056][438]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Specular.tga)
+[2020.03.19-06.45.05:656][439]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Normal.tga)
+[2020.03.19-06.45.08:132][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Emissive.tga)
+[2020.03.19-06.45.10:175][441]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris Diffuse.tga)
+[2020.03.19-06.45.15:894][442]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_roughness943F0A7041CE8287BFFAC4AE80326ED8.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_roughness.uasset'
+[2020.03.19-06.45.16:927][442]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_SpecularB84519AA4DC3087252C3279430F7D1D5.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Specular.uasset'
+[2020.03.19-06.45.18:287][442]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_NormalA8AAAA394B502CA8A41A378994B8B9CF.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Normal.uasset'
+[2020.03.19-06.45.19:292][442]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Emissive281991B94A35C2EA12D24E9F06DA638C.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Emissive.uasset'
+[2020.03.19-06.45.20:910][442]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Diffuse951888CD4347EBCE0C15B39C5853F3AA.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Diffuse.uasset'
+[2020.03.19-06.45.20:997][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.19-06.45.20:997][443]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_roughness.Luminaris_roughness
+[2020.03.19-06.45.20:997][443]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Specular.Luminaris_Specular
+[2020.03.19-06.45.20:997][443]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Normal.Luminaris_Normal
+[2020.03.19-06.45.20:997][443]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Emissive.Luminaris_Emissive
+[2020.03.19-06.45.20:997][443]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Diffuse.Luminaris_Diffuse
+[2020.03.19-06.45.23:934][612]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_roughness.
+[2020.03.19-06.45.23:934][612]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Specular.
+[2020.03.19-06.45.23:934][612]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Normal.
+[2020.03.19-06.45.23:934][612]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Emissive.
+[2020.03.19-06.45.23:934][612]AssetReimport: Importing new asset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Diffuse.
+[2020.03.19-06.45.27:985][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.19-06.45.29:419][840]LogSlate: Window 'Save Content' being destroyed
+[2020.03.19-06.45.29:493][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.19-06.45.29:756][840]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/FlyingExampleMap40F806A14A3ACC1A78D749A64553409A.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.03.19-06.45.29:779][840]LogFileHelpers: Saving map 'FlyingExampleMap' took 0.318
+[2020.03.19-06.45.29:876][840]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Animated_FBX_PhysicsAsF5A6A1174FCC6DFCF366359B679FF07A.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_PhysicsAsset.uasset'
+[2020.03.19-06.45.29:903][840]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Animated_FBX_SkeletonF694635D4D9692CA27B6A6A95D8B6484.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_Skeleton.uasset'
+[2020.03.19-06.45.30:009][840]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_starship_material27A566204E98D304C0D3F8BA4E774FA5.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.uasset'
+[2020.03.19-06.45.30:043][840]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.19-06.45.30:043][840]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.03.19-06.45.30:043][840]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_PhysicsAsset.Luminaris_Animated_FBX_PhysicsAsset
+[2020.03.19-06.45.30:043][840]LogContentValidation: Display: Validating Skeleton /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX_Skeleton.Luminaris_Animated_FBX_Skeleton
+[2020.03.19-06.45.30:043][840]LogContentValidation: Display: Validating Material /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.Luminaris_starship_material
+[2020.03.19-06.45.31:180][883]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.Luminaris_starship_material
+[2020.03.19-06.45.31:200][883]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.45.31:436][883]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.45.31:472][883]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.45.31:521][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.45.31:521][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.45.31:521][883]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.03.19-06.45.31:521][883]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.19-06.45.31:795][884]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.19-06.45.34:294][988]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.45.34:295][988]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.45.36:492][ 80]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.45.36:834][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.45.38:454][162]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.03.19-06.45.38:863][177]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.03.19-06.45.40:175][232]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.03.19-06.45.41:284][276]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.03.19-06.45.41:309][276]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.45.42:507][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.45.42:781][335]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.45.43:443][335]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.19-06.45.43:443][335]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.45.43:864][339]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.45.44:216][345]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.03.19-06.45.44:549][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.03.19-06.45.45:779][392]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.03.19-06.45.46:020][404]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.03.19-06.45.47:024][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.03.19-06.45.50:055][615]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.03.19-06.45.50:656][644]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.03.19-06.45.51:405][678]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.03.19-06.45.53:222][746]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.03.19-06.45.53:507][756]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.03.19-06.45.53:507][756]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.03.19-06.45.56:014][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.03.19-06.45.57:231][903]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.19-06.45.57:308][906]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.03.19-06.45.59:663][ 18]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.03.19-06.46.00:338][ 47]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.03.19-06.46.01:485][101]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.03.19-06.46.03:033][181]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.03.19-06.46.03:955][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.03.19-06.46.04:039][231]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.19-06.46.06:431][354]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.03.19-06.46.06:880][375]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.06:925][375]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.46.06:938][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.19-06.46.06:970][375]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.07:038][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.19-06.46.07:482][388]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.46.09:435][461]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.46.11:204][539]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.03.19-06.46.12:629][608]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.03.19-06.46.13:304][640]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.13:374][640]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.19-06.46.13:411][640]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.13:474][640]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.19-06.46.13:571][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.46.13:712][644]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.46.15:729][729]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.46.17:332][786]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.46.18:087][812]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.03.19-06.46.18:087][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.03.19-06.46.20:963][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.46.21:477][942]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.03.19-06.46.22:042][971]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.03.19-06.46.23:956][ 63]Cmd: TRANSACTION UNDO
+[2020.03.19-06.46.23:956][ 63]LogEditorTransaction: Undo Move Node
+[2020.03.19-06.46.23:996][ 63]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.24:442][ 69]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.46.24:886][ 89]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.46.25:481][116]Cmd: TRANSACTION REDO
+[2020.03.19-06.46.25:481][116]LogEditorTransaction: Redo Move Node
+[2020.03.19-06.46.25:523][116]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.25:567][116]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.19-06.46.28:009][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.03.19-06.46.28:669][253]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.46.28:896][265]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.03.19-06.46.30:658][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.46.30:755][347]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.03.19-06.46.31:740][377]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.46.32:457][412]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.03.19-06.46.32:909][433]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.03.19-06.46.34:832][502]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.46.35:698][536]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.03.19-06.46.36:404][571]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.03.19-06.46.39:164][704]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.03.19-06.46.39:386][712]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.03.19-06.46.40:000][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.19-06.46.40:680][755]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.40:749][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.19-06.46.40:780][755]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.41:567][787]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.03.19-06.46.42:220][818]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.03.19-06.46.42:771][845]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.03.19-06.46.45:107][951]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.46.45:182][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.03.19-06.46.45:519][963]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.46.47:937][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.03.19-06.46.48:480][ 93]LogMaterialEditor: Applying material Luminaris_starship_material
+[2020.03.19-06.46.49:519][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.03.19-06.46.49:519][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.46.49:519][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.46.49:552][ 93]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.49:715][ 93]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.46.49:850][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.03.19-06.46.49:890][ 93]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2020.03.19-06.46.56:885][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.03.19-06.46.56:886][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.03.19-06.46.56:901][ 93]TextureStreamingBuild: Display: Compiling optional shaders took 7.048 seconds.
+[2020.03.19-06.47.02:199][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.19-06.47.05:574][243]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.03.19-06.47.06:126][261]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.03.19-06.47.16:316][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.19-06.47.16:410][759]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.16:467][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.19-06.47.16:505][759]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.16:574][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.19-06.47.19:509][880]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.03.19-06.47.21:394][970]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.03.19-06.47.23:260][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.19-06.47.24:336][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.03.19-06.47.25:897][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.47.26:067][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.03.19-06.47.28:329][248]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.19-06.47.28:329][248]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.28:394][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.19-06.47.28:434][248]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.28:475][248]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.03.19-06.47.29:788][303]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.03.19-06.47.30:864][346]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.03.19-06.47.31:267][362]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.31:309][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.03.19-06.47.31:332][362]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.19-06.47.32:637][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.03.19-06.47.33:249][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.03.19-06.47.33:970][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.47.36:035][555]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.47.36:293][567]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.03.19-06.47.36:673][578]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.19-06.47.39:151][685]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.03.19-06.47.40:247][738]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.47.40:330][742]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.47.42:627][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.03.19-06.47.42:858][853]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.03.19-06.47.43:307][871]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.43:367][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.19-06.47.43:403][871]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.43:473][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.19-06.47.43:715][875]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.03.19-06.47.45:158][934]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.03.19-06.47.45:569][946]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.03.19-06.47.46:384][972]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.03.19-06.47.47:765][ 30]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.03.19-06.47.47:833][ 30]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.03.19-06.47.48:935][ 72]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.19-06.47.49:319][ 87]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.49:381][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.19-06.47.51:281][169]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.03.19-06.47.51:937][201]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.03.19-06.47.52:232][214]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.47.54:881][317]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.47.56:017][358]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.47.56:382][370]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.19-06.47.56:735][386]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.56:796][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.19-06.47.56:830][386]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.47.58:668][459]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.03.19-06.47.58:691][460]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.03.19-06.47.59:707][501]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.19-06.48.01:897][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.48.02:192][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.48.02:542][616]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.48.03:972][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.48.06:484][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.48.06:589][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.03.19-06.48.07:099][806]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.48.09:524][905]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.03.19-06.48.10:330][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.03.19-06.48.10:521][935]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.03.19-06.48.12:331][  7]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.19-06.48.12:764][ 25]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.03.19-06.48.13:498][ 54]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.03.19-06.48.16:006][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.19-06.48.16:075][176]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.03.19-06.48.16:662][204]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.03.19-06.48.19:055][310]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.19:103][310]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.03.19-06.48.19:121][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.19-06.48.19:157][310]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.19:231][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.19-06.48.19:332][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.48.19:332][311]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.48.23:699][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.48.23:802][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.48.23:872][497]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.23:915][497]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.19-06.48.23:933][497]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.19-06.48.26:224][600]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.03.19-06.48.26:998][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.48.28:478][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.48.31:039][776]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.19-06.48.31:094][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.03.19-06.48.31:701][802]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.31:747][802]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.19-06.48.31:760][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.19-06.48.31:792][802]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.34:712][914]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.48.35:079][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.48.35:162][935]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.48.37:929][ 65]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.19-06.48.38:429][ 88]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.03.19-06.48.38:819][107]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.48.40:935][206]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.03.19-06.48.41:020][207]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.41:076][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.19-06.48.41:107][207]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.41:176][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.19-06.48.42:853][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.03.19-06.48.42:910][280]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.03.19-06.48.43:288][294]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.03.19-06.48.44:153][323]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.44:223][323]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.19-06.48.45:753][390]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.03.19-06.48.46:938][434]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.48.47:138][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.48.48:588][495]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.48:660][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.19-06.48.48:695][495]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.49:128][503]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.19-06.48.49:599][523]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.03.19-06.48.51:061][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.03.19-06.48.53:066][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.48.53:434][698]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.03.19-06.48.53:636][706]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.48.54:336][739]LogMaterialEditor: Applying material Luminaris_starship_material
+[2020.03.19-06.48.55:405][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.03.19-06.48.55:443][739]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.55:558][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.19-06.48.55:558][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.48.55:558][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.48.55:625][739]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.48.55:759][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.03.19-06.48.55:789][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.03.19-06.49.02:554][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.03.19-06.49.02:555][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.49.02:555][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.03.19-06.49.02:559][739]TextureStreamingBuild: Display: Compiling optional shaders took 6.798 seconds.
+[2020.03.19-06.49.02:618][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.19-06.49.10:787][115]LogMaterialEditor: Saving and Compiling material Luminaris_starship_material
+[2020.03.19-06.49.17:349][115]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.03.19-06.49.17:349][115]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.03.19-06.49.17:349][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.19-06.49.17:349][115]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.19-06.49.17:349][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.19-06.49.17:492][115]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_starship_material02E98B9C464E55C530E6158E29A79C45.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.uasset'
+[2020.03.19-06.49.17:532][115]AssetCheck: New page: Asset Save: Luminaris_starship_material
+[2020.03.19-06.49.17:532][115]LogContentValidation: Display: Validating Material /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.Luminaris_starship_material
+[2020.03.19-06.49.17:542][115]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.03.19-06.49.17:542][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2020.03.19-06.49.17:542][115]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.19-06.49.17:542][115]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.19-06.49.17:543][115]MaterialEditorStats: Texture samplers: 8/16
+[2020.03.19-06.49.17:543][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.03.19-06.49.17:543][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.19-06.49.26:330][610]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.49.26:342][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.49.26:342][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.49.26:342][610]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:49:26)
+[2020.03.19-06.49.26:342][610]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.49.26:366][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023754s)
+[2020.03.19-06.49.26:368][610]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.49.26:368][610]LogPlayLevel: PIE: World Init took: (0.002198s)
+[2020.03.19-06.49.26:368][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026278s)
+[2020.03.19-06.49.26:408][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.49.26:410][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.49.26:410][610]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.49.26:410][610]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.49.26:415][610]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.49.26:416][610]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.49.26:416][610]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.49.26:438][610]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.49.26:440][610]LogInit: FAudioDevice initialized.
+[2020.03.19-06.49.26:446][610]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.49.26:452][610]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.49.26
+[2020.03.19-06.49.26:453][610]LogWorld: Bringing up level for play took: 0.005700
+[2020.03.19-06.49.26:453][610]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.19-06.49.26:456][610]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.985
+[2020.03.19-06.49.26:456][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.49.29:048][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.49.29:066][762]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.49.29:086][762]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.49.29:086][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.49.29:087][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.49.29:087][762]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.49.29:087][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.49.29:087][762]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.49.29:088][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.49.29:096][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.49.29:097][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.49.29:101][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.49.29:131][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.49.29:135][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.49.29:139][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.03.19-06.49.29:158][763]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.19-06.49.30:489][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.03.19-06.49.31:409][890]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.03.19-06.49.33:035][985]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Luminaris_Animated_FBX)
+[2020.03.19-06.49.44:519][636]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Luminaris_Animated_FBX)
+[2020.03.19-06.49.45:335][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.03.19-06.49.46:377][742]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Luminaris_Animated_FBX)
+[2020.03.19-06.49.47:239][788]Cmd: DELETE
+[2020.03.19-06.49.47:239][788]Cmd: ACTOR DELETE
+[2020.03.19-06.49.47:269][788]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.03.19-06.49.47:302][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.03.19-06.49.47:304][788]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.03.19-06.50.06:597][534]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.06:636][534]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.06:683][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.19-06.50.06:683][534]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.50.06:683][534]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.03.19-06.50.06:683][534]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.19-06.50.10:716][690]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.13:749][808]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.03.19-06.50.14:645][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.19-06.50.14:965][857]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.03.19-06.50.17:841][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.03.19-06.50.17:962][978]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.50.18:734][  6]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.03.19-06.50.20:634][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.03.19-06.50.21:242][100]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.21:302][100]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.23:192][171]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.03.19-06.50.23:405][180]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.19-06.50.24:040][206]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.03.19-06.50.27:179][334]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.03.19-06.50.28:297][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.03.19-06.50.28:464][388]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.03.19-06.50.28:717][396]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.28:779][396]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.30:716][472]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.30:769][472]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.03.19-06.50.30:906][478]LogMaterialEditor: Applying material Luminaris_starship_material
+[2020.03.19-06.50.31:975][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.03.19-06.50.31:975][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.03.19-06.50.32:009][478]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.32:174][478]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.32:253][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.03.19-06.50.32:307][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.19-06.50.32:347][478]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2020.03.19-06.50.39:188][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.03.19-06.50.39:189][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.03.19-06.50.39:194][478]TextureStreamingBuild: Display: Compiling optional shaders took 6.885 seconds.
+[2020.03.19-06.50.39:262][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.19-06.50.45:208][707]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.45:271][707]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.47:986][814]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.48:048][814]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.48:163][817]LogMaterialEditor: Applying material Luminaris_starship_material
+[2020.03.19-06.50.49:252][817]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.49:428][817]LogMaterial: Display: Missing cached shader map for material Luminaris_starship_material, compiling. 
+[2020.03.19-06.50.49:561][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.03.19-06.50.49:598][817]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 80
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 76
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 75
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.03.19-06.50.59:081][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 55
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.03.19-06.50.59:082][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.19-06.50.59:088][817]TextureStreamingBuild: Display: Compiling optional shaders took 9.526 seconds.
+[2020.03.19-06.50.59:144][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.19-06.51.10:155][ 95]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.03.19-06.51.10:639][123]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.19-06.51.12:220][216]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.19-06.51.15:806][422]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.19-06.51.16:739][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.19-06.51.17:639][530]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Texture samplers: 8/16
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.03.19-06.51.18:829][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.19-06.51.25:548][942]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_Animated_FBX.Luminaris_Animated_FBX
+[2020.03.19-06.51.25:594][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.19-06.51.25:703][942]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.19-06.51.28:181][ 23]LogSlate: Window 'Luminaris_Animated_FBX' being destroyed
+[2020.03.19-06.51.28:211][ 23]LogSlate: Window 'Luminaris_Animated_FBX' being destroyed
+[2020.03.19-06.51.28:316][ 23]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.51.28:316][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.51.28:344][ 23]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.51.28:345][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.51.43:210][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_DiffuseC70A289D48899460E06DAE9DAE4AC047.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Diffuse.uasset'
+[2020.03.19-06.51.43:353][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Emissive521A527C4E5F01BCACB20883D9DDB6A1.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Emissive.uasset'
+[2020.03.19-06.51.43:712][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_Normal57A350C74B26B9C57498F59F0F44F9AB.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Normal.uasset'
+[2020.03.19-06.51.43:860][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_roughness2FF196734E38B45541397F84F118490C.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_roughness.uasset'
+[2020.03.19-06.51.44:023][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_SpecularEED12F914D7A31E0DABE96A12E9E6E89.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Specular.uasset'
+[2020.03.19-06.51.44:493][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.19-06.51.44:526][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.19-06.51.44:551][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.19-06.51.44:581][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.19-06.51.44:613][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.19-06.51.44:660][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.03.19-06.51.44:689][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.03.19-06.51.44:853][773]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/Luminaris_starship_material30DA8F3245A9E346AA20E8BE96816AF6.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.uasset'
+[2020.03.19-06.51.44:920][773]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.19-06.51.44:920][773]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Diffuse.Luminaris_Diffuse
+[2020.03.19-06.51.44:920][773]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Emissive.Luminaris_Emissive
+[2020.03.19-06.51.44:920][773]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Normal.Luminaris_Normal
+[2020.03.19-06.51.44:921][773]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_roughness.Luminaris_roughness
+[2020.03.19-06.51.44:921][773]LogContentValidation: Display: Validating Texture2D /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Textures/Luminaris_Specular.Luminaris_Specular
+[2020.03.19-06.51.44:921][773]LogContentValidation: Display: Validating Material /Game/Meshes/Spaceships/Luminaris_Animated_FBX/Luminaris_starship_material.Luminaris_starship_material
+[2020.03.19-06.51.46:211][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.03.19-06.51.47:985][800]LogSlate: Window 'Save Content' being destroyed
+[2020.03.19-06.51.48:063][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.19-06.51.48:303][800]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/FlyingExampleMap1E9677D2490D0C2422926C9F6DC9C2B4.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.03.19-06.51.48:325][800]LogFileHelpers: Saving map 'FlyingExampleMap' took 0.294
+[2020.03.19-06.51.48:338][800]AssetCheck: New page: Asset Save: FlyingExampleMap
+[2020.03.19-06.51.48:338][800]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
