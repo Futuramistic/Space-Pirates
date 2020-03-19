@@ -1109,3 +1109,467 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-06.16.06:421][888]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
 [2020.03.19-06.16.09:521][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
 [2020.03.19-06.16.11:665][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.19-06.19.04:772][791]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.19.04:794][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.19.04:794][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.19.04:794][791]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:19:04)
+[2020.03.19-06.19.04:794][791]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.19.04:819][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025510s)
+[2020.03.19-06.19.04:821][791]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.19.04:821][791]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2020.03.19-06.19.04:822][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028527s)
+[2020.03.19-06.19.04:881][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.19.04:884][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.19.04:884][791]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.19.04:884][791]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.19.04:888][791]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.19.04:889][791]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.19.04:909][791]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.19.04:912][791]LogInit: FAudioDevice initialized.
+[2020.03.19-06.19.04:918][791]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.19.04:925][791]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.19.04
+[2020.03.19-06.19.04:925][791]LogWorld: Bringing up level for play took: 0.006282
+[2020.03.19-06.19.04:926][791]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.03.19-06.19.04:929][791]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.544
+[2020.03.19-06.19.04:929][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.19.16:104][457]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.19.16:110][457]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.19.16:140][457]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.19.16:140][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.19.16:140][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.19.16:141][457]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.19.16:141][457]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.19.16:141][457]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.19.16:142][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.19.16:153][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.19.16:154][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.19.16:160][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.19.16:201][457]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.19.16:205][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.19.16:212][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.03.19-06.19.16:233][458]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.19-06.20.44:002][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-06.20.44:094][385]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShip1DC5EA6042491BB9CC0D7B805503C646.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-06.20.44:110][385]AssetCheck: New page: Asset Save: SpaceShip
+[2020.03.19-06.20.44:110][385]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
+[2020.03.19-06.20.45:400][447]BlueprintLog: New page: Compile SpaceShip
+[2020.03.19-06.20.45:742][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.19-06.20.49:593][629]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.20.49:611][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.20.49:611][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.20.49:612][629]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:20:49)
+[2020.03.19-06.20.49:612][629]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.20.49:637][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025445s)
+[2020.03.19-06.20.49:639][629]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.20.49:640][629]LogPlayLevel: PIE: World Init took: (0.002965s)
+[2020.03.19-06.20.49:640][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028710s)
+[2020.03.19-06.20.49:703][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.03.19-06.20.49:704][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.20.49:704][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.20.49:705][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.20.49:705][629]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.20.49:705][629]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.20.49:710][629]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.20.49:710][629]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.20.49:710][629]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.20.49:710][629]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.20.49:710][629]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.20.49:711][629]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.20.49:711][629]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.20.49:711][629]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.20.49:711][629]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.20.49:730][629]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.20.49:732][629]LogInit: FAudioDevice initialized.
+[2020.03.19-06.20.49:742][629]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.20.49:748][629]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.20.49
+[2020.03.19-06.20.49:749][629]LogWorld: Bringing up level for play took: 0.005934
+[2020.03.19-06.20.49:749][629]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.19-06.20.49:752][629]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.281
+[2020.03.19-06.20.49:752][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.20.54:121][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.20.54:129][888]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.20.54:150][888]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.20.54:151][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.20.54:151][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.20.54:151][888]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.20.54:151][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.20.54:151][888]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.20.54:152][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.20.54:159][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.20.54:159][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.20.54:165][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.20.54:213][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.20.54:217][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.20.54:223][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.03.19-06.20.54:244][889]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.19-06.21.31:709][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-06.21.31:795][541]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShipBF33006A4FD5A707DF52E6A3A2B64887.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-06.21.31:812][541]AssetCheck: New page: Asset Save: SpaceShip
+[2020.03.19-06.21.31:812][541]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
+[2020.03.19-06.21.49:826][403]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.21.49:845][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.21.49:845][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.21.49:845][403]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:21:49)
+[2020.03.19-06.21.49:845][403]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.21.49:871][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026168s)
+[2020.03.19-06.21.49:873][403]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.21.49:874][403]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2020.03.19-06.21.49:874][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028828s)
+[2020.03.19-06.21.49:931][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.21.49:935][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.21.49:935][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.21.49:936][403]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.21.49:936][403]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.21.49:941][403]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.21.49:964][403]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.21.49:965][403]LogInit: FAudioDevice initialized.
+[2020.03.19-06.21.49:973][403]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.21.49:979][403]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.21.49
+[2020.03.19-06.21.49:980][403]LogWorld: Bringing up level for play took: 0.005908
+[2020.03.19-06.21.49:980][403]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.19-06.21.49:983][403]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.511
+[2020.03.19-06.21.49:984][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.08:301][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.08:310][499]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.22.08:330][499]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.22.08:330][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.08:331][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.08:331][499]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.22.08:331][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.08:331][499]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.22.08:332][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.08:338][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.22.08:338][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.08:343][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.08:385][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.08:389][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.08:395][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.03.19-06.22.08:415][500]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.19-06.22.11:766][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.22.11:787][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.11:787][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.22.11:787][692]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:22:11)
+[2020.03.19-06.22.11:787][692]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.22.11:812][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024561s)
+[2020.03.19-06.22.11:813][692]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.22.11:813][692]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2020.03.19-06.22.11:813][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026417s)
+[2020.03.19-06.22.11:869][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.22.11:871][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.22.11:871][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.22.11:872][692]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.22.11:872][692]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.22.11:876][692]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.22.11:896][692]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.22.11:898][692]LogInit: FAudioDevice initialized.
+[2020.03.19-06.22.11:914][692]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.22.11:922][692]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.22.11
+[2020.03.19-06.22.11:922][692]LogWorld: Bringing up level for play took: 0.007267
+[2020.03.19-06.22.11:922][692]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.19-06.22.11:925][692]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.453
+[2020.03.19-06.22.11:925][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.13:764][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.13:770][799]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.22.13:790][799]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.22.13:790][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.13:790][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.13:791][799]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.22.13:791][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.13:791][799]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.22.13:792][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.13:802][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.22.13:803][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.13:808][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.13:849][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.13:853][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.13:860][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.03.19-06.22.13:880][800]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.19-06.22.20:000][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.22.20:019][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.20:020][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.22.20:020][ 34]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:22:20)
+[2020.03.19-06.22.20:020][ 34]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.22.20:048][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028119s)
+[2020.03.19-06.22.20:051][ 34]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.22.20:051][ 34]LogPlayLevel: PIE: World Init took: (0.002916s)
+[2020.03.19-06.22.20:051][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.031335s)
+[2020.03.19-06.22.20:114][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.22.20:116][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.22.20:116][ 34]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.22.20:116][ 34]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.22.20:121][ 34]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.22.20:142][ 34]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.22.20:144][ 34]LogInit: FAudioDevice initialized.
+[2020.03.19-06.22.20:152][ 34]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.22.20:158][ 34]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.22.20
+[2020.03.19-06.22.20:159][ 34]LogWorld: Bringing up level for play took: 0.006009
+[2020.03.19-06.22.20:159][ 34]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.19-06.22.20:162][ 34]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.69
+[2020.03.19-06.22.20:163][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.41:737][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.41:760][323]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.22.41:780][323]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.22.41:780][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.41:780][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.41:780][323]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.22.41:781][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.41:781][323]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.22.41:782][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.41:792][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.22.41:793][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.22.41:802][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.22.41:845][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.22.41:849][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.22.41:856][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.03.19-06.22.41:876][324]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.19-06.23.46:654][382]BlueprintLog: New page: Compile SpaceShip
+[2020.03.19-06.23.47:000][382]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.03.19-06.23.49:358][497]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.23.49:377][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.23.49:377][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.23.49:377][497]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:23:49)
+[2020.03.19-06.23.49:377][497]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.23.49:404][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027011s)
+[2020.03.19-06.23.49:406][497]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.23.49:406][497]LogPlayLevel: PIE: World Init took: (0.002258s)
+[2020.03.19-06.23.49:407][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.029586s)
+[2020.03.19-06.23.49:467][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.23.49:470][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.23.49:470][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.23.49:471][497]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.23.49:471][497]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.23.49:476][497]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.23.49:492][497]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.23.49:495][497]LogInit: FAudioDevice initialized.
+[2020.03.19-06.23.49:506][497]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.23.49:513][497]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.23.49
+[2020.03.19-06.23.49:513][497]LogWorld: Bringing up level for play took: 0.006179
+[2020.03.19-06.23.49:513][497]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.19-06.23.49:516][497]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.045
+[2020.03.19-06.23.49:516][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.24.20:035][325]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.24.20:039][325]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.24.20:070][325]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.24.20:070][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.24.20:070][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.24.20:070][325]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.24.20:070][325]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.24.20:070][325]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.24.20:071][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.24.20:082][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.24.20:082][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.24.20:088][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.24.20:130][325]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.24.20:134][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.24.20:140][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.03.19-06.24.20:163][326]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.19-06.25.10:505][590]BlueprintLog: New page: Compile SpaceShip
+[2020.03.19-06.25.10:846][590]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.03.19-06.25.14:190][753]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.25.14:211][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.25.14:211][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.25.14:211][753]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:25:14)
+[2020.03.19-06.25.14:211][753]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.25.14:237][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025538s)
+[2020.03.19-06.25.14:239][753]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.25.14:240][753]LogPlayLevel: PIE: World Init took: (0.002896s)
+[2020.03.19-06.25.14:240][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028748s)
+[2020.03.19-06.25.14:302][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.25.14:304][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.25.14:304][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.25.14:305][753]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.25.14:305][753]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.25.14:310][753]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.25.14:311][753]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.25.14:331][753]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.25.14:333][753]LogInit: FAudioDevice initialized.
+[2020.03.19-06.25.14:340][753]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.25.14:346][753]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.25.14
+[2020.03.19-06.25.14:347][753]LogWorld: Bringing up level for play took: 0.005851
+[2020.03.19-06.25.14:347][753]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.19-06.25.14:350][753]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.878
+[2020.03.19-06.25.14:350][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.25.17:747][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.25.17:750][954]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.25.17:769][954]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.25.17:769][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.25.17:769][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.25.17:769][954]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.25.17:769][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.25.17:769][954]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.25.17:770][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.25.17:780][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.25.17:781][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.25.17:786][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.25.17:830][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.25.17:834][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.25.17:840][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.19-06.25.17:862][955]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.19-06.25.31:316][545]BlueprintLog: New page: Compile SpaceShip
+[2020.03.19-06.25.31:656][545]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.19-06.25.35:583][722]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-06.25.35:605][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.25.35:606][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-06.25.35:606][722]PIE: New page: PIE session: FlyingExampleMap (19 Mar 2020, 22:25:35)
+[2020.03.19-06.25.35:606][722]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.25.35:641][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034856s)
+[2020.03.19-06.25.35:642][722]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.19-06.25.35:643][722]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2020.03.19-06.25.35:643][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.037040s)
+[2020.03.19-06.25.35:702][722]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.19-06.25.35:704][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.19-06.25.35:704][722]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.19-06.25.35:704][722]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Is Default: Yes
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: Channel Order:
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.19-06.25.35:709][722]LogAudioMixer: Display: 1: FrontRight
+[2020.03.19-06.25.35:729][722]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio(SST))
+[2020.03.19-06.25.35:731][722]LogInit: FAudioDevice initialized.
+[2020.03.19-06.25.35:743][722]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.19-06.25.35:754][722]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.19-14.25.35
+[2020.03.19-06.25.35:755][722]LogWorld: Bringing up level for play took: 0.011220
+[2020.03.19-06.25.35:755][722]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.19-06.25.35:759][722]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.287
+[2020.03.19-06.25.35:759][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCEC35FEB-4CFC-A2D2-5923-438B613E0FD1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=051311ac4057e73f848b8680480af368%7C77cc2142030b4245b57c15f93457fa5c%7Cf3435a01-7346-488f-bf89-5abff65167be&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: request failed, libcurl error: 0 (No error)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fbed97ff70 [can pipeline])
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.86.42.229) port 443 (#11))
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 7 (Closing connection 11)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: 000001FC4A782340: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.19-06.26.10:765][815]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCEC35FEB-4CFC-A2D2-5923-438B613E0FD1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=051311ac4057e73f848b8680480af368%7C77cc2142030b4245b57c15f93457fa5c%7Cf3435a01-7346-488f-bf89-5abff65167be&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.19-06.26.13:677][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.26.13:689][989]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.19-06.26.13:709][989]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.19-06.26.13:710][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.26.13:710][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.26.13:710][989]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.19-06.26.13:710][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.26.13:710][989]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-06.26.13:711][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.26.13:723][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-06.26.13:723][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.19-06.26.13:729][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.19-06.26.13:771][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.19-06.26.13:775][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-06.26.13:781][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.19-06.26.13:801][990]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.19-06.26.18:359][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-06.26.18:474][146]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShip8D8929CE49391D4E2B857799ED8C745E.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-06.26.18:490][146]AssetCheck: New page: Asset Save: SpaceShip
+[2020.03.19-06.26.18:490][146]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
+[2020.03.19-06.26.36:555][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-06.26.36:631][ 52]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShipA74D1EE44D45E21418137DB040C96777.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-06.26.36:649][ 52]AssetCheck: New page: Asset Save: SpaceShip
+[2020.03.19-06.26.36:649][ 52]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
+[2020.03.19-06.27.11:560][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/SpaceShip" FILE="../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset" SILENT=true
+[2020.03.19-06.27.11:633][724]LogSavePackage: Moving '../../../../../../Projects/MyProject3/Space-Pirates/Saved/SpaceShip3910703D4C50D79A7674E581A1E056C8.tmp' to '../../../../../../Projects/MyProject3/Space-Pirates/Content/FlyingBP/Blueprints/SpaceShip.uasset'
+[2020.03.19-06.27.11:650][724]AssetCheck: New page: Asset Save: SpaceShip
+[2020.03.19-06.27.11:650][724]LogContentValidation: Display: Validating Blueprint /Game/FlyingBP/Blueprints/SpaceShip.SpaceShip
