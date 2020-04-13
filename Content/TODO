@@ -1,0 +1,32 @@
+*** WHAT TO DO ***
+** LEVEL DESIGN **
+------------------
+
+In terms of dealing with potential boundary breaks between the player, stations, and celestial objects
+
+STARS & BLACK HOLES & LARGE OBJECTS:
+* make as a pseudo-parallax
+   * EX: the explorable area is 8000x8000x8000 and the background (skybox nonwithstanding) is 15000x15000x15000
+   * all large objects will need to be blown up so they can be seen
+   * saves the time from writing code to keep these objects forever at a certain distance away
+* logically speaking, keeping large celestial objects out of the player's reach means that we don't have to deal with the physics (namely gravity) associated with pulling a player in, but keeps the spectacle
+
+
+PLANETS
+* surround only the planet with a blocking volume and some accompanying text telling the player to turn around
+* surround the stations and by extension the planet with a trigger volume
+   * can trigger either by passing by it or by button press (likely by button press)
+
+
+SPACE DUST
+* particle system
+   * random sizes
+   * if you want to keep realistic, try to randomize into a web pattern
+   * only keep as small clumps
+   * allow player to pass through without damage
+
+
+ASTEROIDS
+* a few moving throughout the level, mostly in a straight line
+* if in a belt, keep large and close together
+* can damage player
