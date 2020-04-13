@@ -1,0 +1,24 @@
+newmtl Aft_Section_Aft_Hatch_Lower_LSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl Fore_Section_Airlock_Blast_DoorSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl PDC_Holder_MoverFBXASC046005SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
