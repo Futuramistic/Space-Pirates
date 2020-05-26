@@ -128,11 +128,11 @@ Player can equip three kinds of weapons:
 With each weapon, player can defeat different enemies and gain different stats to match his play style.  
 LMB - Shoot
 
-## Main menu and pause menu - Mateusz Nowak
+## Main menu, pause and save/load game - Mateusz Nowak
+
+![](https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Videos/MainMenu.gif)
 
 Escape - pause game
-
-## Save game/Load game - Mateusz Nowak
 
 <img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Menus.PNG">
 
