@@ -74,7 +74,7 @@ We have a large number of item types:
 
 ## Crafting - Mateusz Nowak
 
-<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Crafting.PNG" align="left">
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Crafting.PNG" width="430" height="255" align="left">
 
 One of the core mechanics of the game is crafting modules for weapons and ship using collected resources. Rather than a linear upgrade progression, the different modules offer trade-offs, such as more armor at the cost of slower turning.
 We designed the game around a high degree of customization of the player's ship, allowing the player to design any kind of ship, from a light and agile fighter for hit and run tactics, to large and chunky battleships with tons of firepower.
