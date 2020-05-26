@@ -49,6 +49,9 @@ Player's spacecraft can pitch and roll. Max speed is dependent on the player’s
 
 
 ## Inventory and equipment - Mateusz Nowak
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Inventory.PNG" width="430" height="255" align="right">
+
 The player collects resources and parts to be used in crafting
 The player has limited space to store cargo
 We have a large number of item types:
@@ -61,6 +64,9 @@ We have a large number of item types:
 
 
 ## Crafting - Mateusz Nowak
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Crafting.PNG" align="left">
+
 One of the core mechanics of the game is crafting modules for weapons and ship using collected resources. Rather than a linear upgrade progression, the different modules offer trade-offs, such as more armor at the cost of slower turning.
 We designed the game around a high degree of customization of the player's ship, allowing the player to design any kind of ship, from a light and agile fighter for hit and run tactics, to large and chunky battleships with tons of firepower.
 
@@ -70,6 +76,8 @@ Crafting system uses Box-Muller Transform to uniformly distribute statistics bas
 We designed the enemy AI to use a commander - soldier hierarchy to coordinate movements. This adds a level of tactical depth to the player, incentivizing players to plan their attacks and defenses in response. 
 
 Enemies are generated with randomized stats (HP, speed, attack, weapon type etc).
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Models.PNG" align="right">
 
 We plan to implement a level difficulty scoring system based on a function of each enemy and their stats. This allows us to have varied level design but still maintaining the same difficulty curve, generating replay value.
 
@@ -112,9 +120,14 @@ With each weapon, player can defeat different enemies and gain different stats t
 LMB - Shoot
 
 ## Main menu and pause menu - Mateusz Nowak
+
+<video>
+
 Escape - pause game
 
 ## Save game/Load game - Mateusz Nowak
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Menus.PNG">
 
 ## Special effects - Daniel Elias and Marin Tinnirello
 * Blur effect and special sound effect when the player’s speed is high.
