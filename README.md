@@ -1,6 +1,6 @@
 # Space-Pirates
 
-A 3rd Person space themed Action-Adventure Shooter made in UE4 for CS3247.
+A 3rd Person space themed Action-Adventure Shooter made in UE4 for CS3247. Our team developed this game in only 30 days.
 
 ## Overview
 * 3rd Person (Pilot a ship)
