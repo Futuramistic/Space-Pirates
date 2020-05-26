@@ -31,8 +31,13 @@ A 3rd Person space themed Action-Adventure Shooter made in UE4 for CS3247.
 # Components
 
 ## Aesthetics - Daniel Elias
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Planet1.png" width="270" height="150" align="right">
+
 We decided to mix three game themes to make an unique game:
 Space + Cyberpunk + Pirates
+
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Planet2.png" width="270" height="170" align="right">
 
 Special features:
 * Planet Materials
@@ -42,9 +47,13 @@ Special features:
 
 ## Movement - Yip Seng Yeun
 We implemented a simple contorls schemas to steer our spacecraft.
+
 WASD - Control spacecraft position
+
 QE - Roll
+
 Left Shift - Thrust
+
 Player's spacecraft can pitch and roll. Max speed is dependent on the player’s equipping thruster
 
 
@@ -120,8 +129,6 @@ With each weapon, player can defeat different enemies and gain different stats t
 LMB - Shoot
 
 ## Main menu and pause menu - Mateusz Nowak
-
-<video>
 
 Escape - pause game
 
