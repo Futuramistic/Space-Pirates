@@ -132,13 +132,21 @@ LMB - Shoot
 
 ![](https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Videos/MainMenu.gif)
 
+We designed our main menu screen with special font effects, unique animations and atmospeheric music. Player can load their previous progress, start a new game or quit the game from this menu.
+
+The player can also stop the game and save their progress or quit at any moment in game.
+
 Escape - pause game
 
-<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Menus.PNG">
+Pause|Save|Load
+ :-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Pause.PNG">|<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Save.PNG">|<img src="https://github.com/Futuramistic/Space-Pirates/blob/master/Promo/Images/Load.PNG">
+ </div>
+
 
 ## Special effects - Daniel Elias and Marin Tinnirello
 * Blur effect and special sound effect when the player’s speed is high.
 * Special star gates to change levels
 
 ## Sound - Daniel Elias
-
+The game sounds were designed to portray each level uniquley. They create specific emotions and impressions of actual objects and phenomenons.
